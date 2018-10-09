@@ -1,0 +1,56 @@
+[
+  {
+    "cities": [
+      "İstanbul",
+      "İzmir"
+    ],
+    "locations": [
+      "37.7898,-122.3942",
+      "37.7696,-112.3942"
+    ],
+    "category": "Gentleman",
+    "body": "<p><span>Türkiye de okunabilecek en iyi dergilerden bir tanesidir.Editörden yazarlarına kadar herkes çok profesyoneldir.</span></p>",
+    "title": "Fit&Gent",
+    "thumb": "https://uniqmagazine.com/media/thumbs/2018/10/08/Screen_Shot_2018-10-07_at_23.11.29.png"
+  },
+  {
+    "cities": [
+      "Ankara",
+      "İzmir"
+    ],
+    "locations": [
+      "37.7898,-122.3942",
+      "37.7696,-112.3942"
+    ],
+    "category": "Gentleman",
+    "body": "<p><span>Türkiye de okunabilecek en iyi dergilerden bir tanesidir.Editörden yazarlarına kadar herkes çok profesyoneldir.</span></p>",
+    "title": "Handsome",
+    "thumb": "https://uniqmagazine.com/media/thumbs/2018/10/09/kapak_kas_k%C3%BCtlesi.jpg"
+  },
+  {
+    "cities": [
+      "Ankara",
+      "İstanbul"
+    ],
+    "locations": [
+      "37.7898,-122.3942",
+      "37.7696,-112.3942"
+    ],
+    "category": "Sanat",
+    "body": "<p><span>Türkiye de okunabilecek en iyi dergilerden bir tanesidir.Editörden yazarlarına kadar herkes çok profesyoneldir.</span></p>",
+    "title": "Art&Art",
+    "thumb": "https://uniqmagazine.com/media/thumbs/2018/10/02/carosel_bar.jpg"
+  },
+  {
+    "cities": [
+      "Ankara"
+    ],
+    "locations": [
+      "37.7898,-122.3942"
+    ],
+    "category": "Moda",
+    "body": "<p><span>Türkiye de okunabilecek en iyi dergilerden bir tanesidir.Editörden yazarlarına kadar herkes çok profesyoneldir.</span></p>",
+    "title": "Modalist",
+    "thumb": "https://uniqmagazine.com/media/thumbs/2018/08/08/landscape-1502896512-solar-powered-watches.jpg"
+  }
+]
